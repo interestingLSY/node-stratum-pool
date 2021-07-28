@@ -27,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool.git"
+        "url": "https://github.com/interestinglsy/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^3.2.0",
@@ -35,7 +35,7 @@
         "bchaddrjs": "^0.4.9",
         "bignum": "^0.13.1",
         "bitcoinjs-lib": "^5.1.10",
-        "multi-hashing": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/interestinglsy/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=8.11"
